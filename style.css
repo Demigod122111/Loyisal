@@ -33,3 +33,10 @@ table,th,td {
 #tr_head{
   border-bottom: 3px solid black;
 }
+
+#body_title{
+    border: 2px solid black;
+    background: #903cdb;
+    padding: 10px;
+    color: white;
+}
