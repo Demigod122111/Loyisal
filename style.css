@@ -9,6 +9,7 @@ html{
   background: var(--background);
   display: flex; 
   flex-direction: column;
+  color: white;
 }
 
 body{
