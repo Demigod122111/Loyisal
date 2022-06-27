@@ -29,3 +29,7 @@ table,th,td {
   border-left: 3px solid black;
   border-collapse: collapse;
 }
+
+#tr_head{
+  border-bottom: 3px solid black;
+}
