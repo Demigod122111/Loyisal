@@ -21,5 +21,6 @@ body{
 
 footer{
   position: fixed;
+  top: 100%;
 }
 
