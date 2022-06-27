@@ -39,4 +39,5 @@ table,th,td {
     background: #903cdb;
     padding: 10px;
     color: white;
+    width: fit-content;
 }
